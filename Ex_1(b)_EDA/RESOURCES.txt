@@ -1,0 +1,3 @@
+Kaggle - 
+1.https://www.kaggle.com/code/faridrizqis/online-food-delivery-survey-analysis#The-Number-Of-Respondents-Who-Will-Use-Online-Food-Delivery-Again
+2.https://www.kaggle.com/code/aprajitasrivastava/online-food-delivery-analysis-eda
