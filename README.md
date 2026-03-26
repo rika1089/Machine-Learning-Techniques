@@ -53,23 +53,54 @@ Each experiment includes:
 ---
 
 ## 📁 Project Structure
+
+```
 Machine-Learning-Techniques/
-├── Ex_1(a)_PCA/ # Principal Component Analysis
-├── Ex_1(b)_EDA_Online_delivery/ # Exploratory Data Analysis
-├── Ex_2_KNN/ # K-Nearest Neighbors Classification
-├── Ex_3_LDA/ # Linear Discriminant Analysis
-├── Ex_4_Linear_Regression/ # Linear Regression Modeling
-├── Ex_5_Naive_Bayes/ # Naive Bayes Classification
-├── Ex_6_SVM/ # Support Vector Machines
-├── Ex_7_SVM(Varying_kernels)/ # SVM with Different Kernels
-├── Ex_8_Feed_Forward_Network/ # Neural Networks
-├── Lab_1_PCA.ipynb # PCA Lab Implementation
-├── Lab_2_KNN.ipynb # KNN Lab Implementation
-├── creditcard.csv # Credit Card Dataset
-└── README.md # Documentation
-
-text
-
+│
+├── 📂 Ex_1(a)_PCA/
+│   ├── PCA.ipynb
+│   └── [Supporting files & resources]
+│
+├── 📂 Ex_1(b)_EDA_Online_delivery/
+│   ├── EDA.ipynb
+│   ├── onlinedeliverydata.csv
+│   ├── RESOURCES.txt
+│   └── archive.zip
+│
+├── 📂 Ex_2_KNN/
+│   ├── KNN.ipynb
+│   └── [Dataset & resources]
+│
+├── 📂 Ex_3_LDA/
+│   ├── LDA.ipynb
+│   └── [Supporting files]
+│
+├── 📂 Ex_4_Linear_Regression/
+│   ├── Linear_Regression.ipynb
+│   └── [Dataset & visualization files]
+│
+├── 📂 Ex_5_Naive_Bayes/
+│   ├── Naive_Bayes.ipynb
+│   └── [Wine Dataset]
+│
+├── 📂 Ex_6_SVM/
+│   ├── SVM.ipynb
+│   └── [Supporting resources]
+│
+├── 📂 Ex_7_SVM(Varying_kernels)/
+│   ├── SVM_Kernels.ipynb
+│   └── [Kernel comparison files]
+│
+├── 📂 Ex_8_Feed_Forward_Network/
+│   ├── FFN.ipynb
+│   └── [Neural network models]
+│
+├── 📄 Lab_1_PCA.ipynb
+├── 📄 Lab_2_KNN.ipynb
+├── 📄 creditcard.csv
+├── 📄 [Online delivery dataset file].txt
+└── 📄 README.md
+```
 ---
 
 ## 🛠️ Technologies Used
